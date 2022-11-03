@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mani Radhakrishanan
-- 👀 I’m interested in Robotics.AI&Machine Learning,Neuroscience(Comp&Cog Neuroscience
+- 👀 I’m interested in Robotics.AI&Machine Learning,Neuroscience(Comp&Cog Neuroscience)
 -- 🌱 I’m currently learning Computer Vision
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
